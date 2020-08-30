@@ -52,7 +52,7 @@
 
 * Hot Reload - Make changes, See changes
   - Instantly see what your changes look like in the browser as you create them.
-* Fast 95+ Lighthouse Scores
+* Fast Lighthouse Scores
 * Uses Bootstrap a highly customizable CSS framework
 * Webpack bundling 
   - Consistent code style and linting 
