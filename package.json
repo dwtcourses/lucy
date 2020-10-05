@@ -17,19 +17,18 @@
   },
   "keywords": [
     "vue",
+    "vuejs",
+    "vuethemes",
+    "vue theme",
+    "vue starter",
+    "vue template",
+    "awesome vue",
     "scss",
-    "javascript",
-    "frontend",
-    "prettier",
-    "static",
     "boilerplate",
     "webpack",
-    "vuethemes",
     "template",
     "starter",
-    "vuejs",
-    "webpack",
-    "theme"
+    "webpack"
   ],
   "scripts": {
     "serve": "vue-cli-service serve",
