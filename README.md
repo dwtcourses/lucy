@@ -103,51 +103,6 @@ $ npm run lint
 
 Here is where you can [download](https://vuethemes.org/theme/lucy) the latest installable version of Lucy.
 
-## 🌲&nbsp; Structure
-
-We've tried our best to develop this theme using a logical component driven structure that is easy to customize. The following section shows the theme files, structure, and plugins.
-
-<pre>
-├── public
-│   ├── favicon.ico
-│   ├── index.html
-│   └── robots.txt
-├── src
-│   ├── assets
-│   │   ├── fonts
-│   │   │   ├── base
-│   │   ├── img
-│   │   └── webfonts
-│   ├── components
-│   │   ├── Footer.vue
-│   │   └── Navigation.vue
-│   ├── js
-│   │   └── scrollUp.js
-│   ├── router
-│   │   └── index.js
-│   ├── style
-│   │   ├── all.scss
-│   │   ├── custom.scss
-│   │   ├── default.scss
-│   │   ├── fontawesome.scss
-│   │   ├── fonts.scss
-│   │   ├── responsive.scss
-│   │   └── style.scss
-│   ├── views
-│   │   └── Home.vue
-│   ├── App.vue
-│   └── main.js
-├── .browserslistrc
-├── .eslintrc.js
-├── .gitignore
-├── .prettierrc
-├── babel.config.js
-├── package-lock.json
-├── package.json
-├── README.md
-└── webpack.config.js
-</pre>
-
 ## 👍&nbsp; Credits
 
 This software uses the following open source packages:
@@ -169,7 +124,7 @@ Feel free to file an [issue](https://github.com/vuethemes/lucy/issues). If you'd
 
 ## 📘&nbsp; License
 
-You are free to use SaaS for your personal or client projects. Check out the full license [here](https://coda.io/d/Vue-Themes-License_d8I2oOLBNlz).
+You are free to use Lucy for your personal or client projects. Check out the full license [here](https://coda.io/d/Vue-Themes-License_d8I2oOLBNlz).
 
 ## 💚&nbsp; Contributing & Partnerships
 
